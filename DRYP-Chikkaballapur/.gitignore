@@ -1,0 +1,9 @@
+# Keep only scripts and gitignore
+*
+!.gitignore
+!requirements.txt
+!*/
+!**/*.py
+!*.md
+.venv/
+DRYP Model/
